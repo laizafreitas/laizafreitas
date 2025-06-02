@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Laiza Freitas
+## 👩🏻‍💻  Olá! Eu sou a Laiza Freitas
 **`Desenvolvedora FullStack`**
 ### 🤖 Linguagens e Tecnologias
 
