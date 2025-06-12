@@ -1,5 +1,5 @@
 ## 👩🏻‍💻  Olá! Eu sou a Laiza Freitas
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-End`**
 ### 🤖 Linguagens e Tecnologias
 
 <img 
